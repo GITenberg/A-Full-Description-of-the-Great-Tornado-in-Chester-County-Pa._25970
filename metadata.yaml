@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31701'
     url: http://www.gutenberg.org/2009/agents/31701
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25970#A-Full-Description-of-the-Great-Tornado-in-Chester-County-Pa.
 gutenberg_issued: '2008-07-04'
 gutenberg_type: Text
 identifiers:
